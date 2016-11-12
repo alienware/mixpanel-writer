@@ -1,3 +1,7 @@
+cache:
+  directories:
+    - _build
+    - deps
 language: elixir
 elixir:
   - 1.3
